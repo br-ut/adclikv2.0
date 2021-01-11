@@ -1,5 +1,5 @@
 # adclikv2.0
-Automated script for opening browser and click on the particular element.  Read this if you got any error.  For discussion, comment your queries [here]()
+Automated script for opening browser and click on the particular element.  Read this if you got any error.  For discussion, comment your queries [here](https://www.youtube.com/c/brutundefined/discussion)
 
 
 # installation
@@ -11,7 +11,7 @@ or
 
 
 # driver configuration
-Download the drivers and paste it in
+Download the browser drivers and paste it in
 
 ```C:\Program Files\WindowsPowerShell\Modules\Selenium\3.0.1\assemblies```
 
