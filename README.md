@@ -1,4 +1,4 @@
-# adclikv2.0
+# adclik2.0
 Automated script for opening browser and click on the particular element.  Read this if you got any error.  For discussion, comment your queries [here](https://www.youtube.com/c/brutundefined/discussion)
 
 
