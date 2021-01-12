@@ -23,6 +23,10 @@ For chrome no change is needed.  If you are using firefox, you need to change th
 
 ```$Driver = Start-SeFirefox```
 
+# cursor configuration
+Edit the click.ps1 file by changing the x and y value
+
+```[Clicker]::LeftClickAtPoint(x,y)```
 
 # run
 To run the script
